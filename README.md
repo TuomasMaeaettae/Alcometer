@@ -1,0 +1,2 @@
+# Alcometer
+React Native sovellus
